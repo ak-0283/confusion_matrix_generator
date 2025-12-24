@@ -1,6 +1,3 @@
-
----
-
 # 🎯 Confusion Matrix Generator
 
 A **clean, user-friendly, and publication-ready Confusion Matrix Generator** built using **Streamlit**.
@@ -75,6 +72,12 @@ This tool allows users to **manually construct confusion matrices with clear row
 * **Streamlit**
 * **NumPy**
 * **Matplotlib**
+
+---
+
+
+## 🌐 Live Demo
+👉 [Click here](https://confusion-matrix-generator.streamlit.app/)
 
 ---
 
