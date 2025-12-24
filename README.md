@@ -51,13 +51,21 @@ This tool allows users to **manually construct confusion matrices with clear row
 
 ## 📸 Screenshots
 
-> Add screenshots in this section after deployment.
 
-```md
-![Home Screen](screenshots/home.png)
-![Matrix Input](screenshots/matrix_input.png)
-![Export Output](screenshots/export.png)
-```
+![Home Screen](https://raw.githubusercontent.com/ak-0283/confusion_matrix_generator/refs/heads/main/screenshot/Screenshot%202025-12-24%20225512.png)
+
+---
+
+![Matrix Input](https://raw.githubusercontent.com/ak-0283/confusion_matrix_generator/refs/heads/main/screenshot/Screenshot%202025-12-24%20225526.png)
+
+---
+
+![](https://raw.githubusercontent.com/ak-0283/confusion_matrix_generator/refs/heads/main/screenshot/Screenshot%202025-12-24%20230334.png)
+
+---
+
+![Export Output](https://raw.githubusercontent.com/ak-0283/confusion_matrix_generator/refs/heads/main/screenshot/Screenshot%202025-12-24%20225542.png)
+
 
 ---
 
